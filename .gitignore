@@ -1,7 +1,7 @@
 #ignora los binarios
 *.class
 
-#ignora copias de seguridad
+#Ignora copias de seguridad
 *~
 *.swp
 
